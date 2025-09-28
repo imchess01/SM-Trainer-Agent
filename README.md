@@ -71,3 +71,6 @@ Framework: Fetch.ai uAgents Hosting/Registry: Agentverse Language & Images: ASI:
 Quick Start
 
 python -m venv .venv && source .venv/bin/activate pip install -r requirements.txt export ASI_ONE_API_KEY=sk_... export AGENTVERSE_API_KEY=eyJ... python agent.py
+
+![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
+![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1)
