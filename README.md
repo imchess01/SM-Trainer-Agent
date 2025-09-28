@@ -3,6 +3,9 @@
 Youtube Video
 https://youtu.be/7FNaXJZZHek
 
+
+Agent: https://agentverse.ai/agents/details/agent1qghx20vdq0ehr0z2k6xn7433lhwxqdlc2c3umkphxjkt0m0f89xmqgaedhq/profile
+
 SM Trainer Agent — Finance Track (Agentverse + ASI:One)
 
 An interactive stock-training agent for Agentverse that turns short natural-language market briefs into fast “UP / DOWN / FLAT” practice rounds. Each round begins with a small, neutral people/buildings image (no charts or finance visuals), followed by a scenario that blends technical indicators and recent news/catalysts. When the user answers, the agent immediately reveals the ground truth and serves the next scenario, no scoring, no debate, just rapid reps.
